@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474753502608",
+    "project_id": "huevos-pio-pio",
+    "storage_bucket": "huevos-pio-pio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474753502608:android:e0a58d35c3fe3f951c3715",
+        "android_client_info": {
+          "package_name": "com.example.admin_huevos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2wpFSJx6lQ-sP2G5dFJpytQUQIBzioI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474753502608:android:88ffa27b660f26351c3715",
+        "android_client_info": {
+          "package_name": "com.example.eggfit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2wpFSJx6lQ-sP2G5dFJpytQUQIBzioI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
