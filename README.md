@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # admin_huevos
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# PioAppAdm
+Programa para adminsitracion de app huevos Pio Pio
+>>>>>>> e324d43275acac2fd30e604f164a548a8338d4a5
